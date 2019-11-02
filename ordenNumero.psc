@@ -6,7 +6,7 @@
  Proceso Ordenar_numeros
 		Definir i,j,t,num como enteros
 		Dimension num(5)
-		Escribir "Programa para ordenar numeros enteros de manera ascedente"
+		Escribir "Programa para ordenar numeros enteros de manera descendente"
 		Escribir " "
 		Escribir "Por favor Ingrese 5 Numeros enteros"
 		Escribir " "
