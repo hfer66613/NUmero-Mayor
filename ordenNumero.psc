@@ -21,7 +21,7 @@
 			imprimir "Ingrese numero ", i, " para organizar "
 			leer num(i)
 		FinPara
-		si (i=!0)
+		
 		Para i<-1 Hasta 5 Con Paso 1 Hacer
 			Para j<-i Hasta 5 Con Paso 1 Hacer
 				Si num(i) < num(j) Entonces
@@ -39,9 +39,7 @@
 			imprimir "  ", num(i)
 		FinPara
 		
-		sino 
-		imprimir "ingrese Numeros diferentes de cero para poder efectuar la organizacion"
-		        
+				        
         FinProceso
 	
  
