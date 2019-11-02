@@ -1,6 +1,6 @@
 
 //Programa para organizar numeros de mayor a menor
-//Mateo Benabides
+//Mateo Benavides
 //Steven Gomez
 //Hugo Fernando Marquez
             
