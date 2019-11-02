@@ -8,6 +8,7 @@
  Proceso Ordenar_numeros
  
 		Definir i,j,t,num como enteros
+		Dimension num(5)
 		
 		imprimir "PROGRAMA PARA ORDENAR 5 NUMEROS DE FORMA DESCENDENTE"
 		imprimir " "
