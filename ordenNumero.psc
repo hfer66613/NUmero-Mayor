@@ -8,7 +8,7 @@
 		Dimension num(5)
 		Escribir "Programa para ordenar numeros enteros de manera ascedente"
 		Escribir " "
-		Escribir ".-----Por favor Ingrese 5 Numeros enteros----."
+		Escribir "Por favor Ingrese 5 Numeros enteros"
 		Escribir " "
 		
 		Para i<-1 Hasta 5 Con Paso 1 Hacer
