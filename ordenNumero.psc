@@ -4,6 +4,7 @@ proceso ordenNumero
                 
             
  Proceso Ordenar_numeros
+ 
 		Definir i,j,t,num como enteros;
 		Dimension num(5);
 		Escribir "Programa para ordenar numeros enteros de manera ascedente";
