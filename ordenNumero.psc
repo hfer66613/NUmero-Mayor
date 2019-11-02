@@ -19,7 +19,7 @@
 		FinPara
 		Para i<-1 Hasta 5 Con Paso 1 Hacer
 			Para j<-i Hasta 5 Con Paso 1 Hacer
-				Si num(i) > num(j) Entonces
+				Si num(i) < num(j) Entonces
 					t=num(i)
 					num(i)=num(j)
 					num(j)=t
