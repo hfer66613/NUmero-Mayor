@@ -13,7 +13,7 @@ proceso ordenNumero
 		Escribir " "
 		
 		Para i<-1 Hasta 5 Con Paso 1 Hacer
-			Escribir sin saltar "El numero en la posicion ", i, " es "
+			Escribir sin saltar "Ingrese número ", i, " a organizar "
 			leer num(i)
 		FinPara
 		Para i<-1 Hasta 5 Con Paso 1 Hacer
@@ -29,7 +29,8 @@ proceso ordenNumero
 		Escribir " Sus numeros ordenados de forma Ascendente son "
 		Para i<-1 Hasta 5 Con Paso 1 Hacer
 			Escribir "  ", num(i)
-		FinPara"
+		FinPara
+		Escribir "Gracias por utilizar y preferir nuestro programa, vuelva pronto"
         
         FinProceso
 	
