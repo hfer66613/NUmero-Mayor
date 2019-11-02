@@ -1,6 +1,8 @@
 
 //Programa para organizar numeros de mayor a menor
-           
+//Mateo Benabides
+//Steven Gomez
+//Hugo Fernando Marquez
             
             
  Proceso Ordenar_numeros
