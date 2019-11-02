@@ -29,8 +29,7 @@ proceso ordenNumero
 		Escribir " Sus numeros ordenados de forma Ascendente son "
 		Para i<-1 Hasta 5 Con Paso 1 Hacer
 			Escribir "  ", num(i)
-		FinPara
-		Escribir "Gracias por utilizar y preferir nuestro programa, vuelva pronto"
+		FinPara"
         
         FinProceso
 	
