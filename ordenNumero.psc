@@ -25,7 +25,7 @@
 			FinPara
 		FinPara
 		Escribir " "
-		Escribir " Sus numeros ordenados de forma Ascendente son "
+		Escribir " Sus numeros ordenados de forma Descendente son "
 		Para i<-1 Hasta 5 Con Paso 1 Hacer
 			Escribir "  ", num(i)
 		FinPara
