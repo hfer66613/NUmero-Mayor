@@ -1,2 +1,1 @@
-sapo
-idiota
+definir 
